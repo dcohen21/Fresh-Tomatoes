@@ -5,7 +5,7 @@ class Movie():
     """This class stores the following information about a movie:
     Title, plot summary, poster image, and trailer"""
 
-    # constructor for Movie objects      
+    # constructor for Movie objects
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
         self.title = movie_title
