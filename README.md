@@ -11,7 +11,7 @@ Download the Fresh Tomatoes repository from https://github.com/dcohen21/Fresh-To
 ### Using the website
 Clicking on a movie poster will bring up the trailer for that movie. To close it, click the 'x' in the upper right corner.
 
-### File Contents
+### Contents
 
 ##### fresh_tomatoes.py
 
@@ -24,7 +24,3 @@ This module creates the list of Movie objects. If you would like to add/changes 
 #### media.py
 
 This module defines the Movie class.
-
-#### fresh_tomatoes.html
-
-This is the dynamically generated website.
